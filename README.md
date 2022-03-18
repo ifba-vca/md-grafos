@@ -14,7 +14,9 @@ Montando uma matriz VxV de adjecência, podemos monta-la da seguinte forma:
 
 ![002](https://user-images.githubusercontent.com/13178261/158931256-0359a084-5189-4948-885f-c130639aff8b.png)
 
-Pensendo nessa per
+Pensendo nessa perspectiva, podemos imaginar um objeto `Graph` (grafo em inglês, que possui as seguintes informações: total de vertices `vertex`, total de arestas `edges` e vetor de nós `nodes`.
+
+> ⚠️ Vale lembrar que vetor é um brupo de valores que pode ser unidimensional: `[1,2,3,4]`, bidimensional: [[1,2],[2,4]], até a dimensão n.
 
 
 # Lista de adjacência
