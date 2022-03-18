@@ -43,6 +43,10 @@ Perceba que a classe quando inciada, começa setando todas as variáveis com o v
   [0,0,0,0,0],
 ]
 ```
+O que fica mais ou menos assim:
+![0003](https://user-images.githubusercontent.com/13178261/158934033-0f0dc0d2-c85f-43c4-8d97-a725fdff80b9.png)
+
+
 
 # Lista de adjacência
 
